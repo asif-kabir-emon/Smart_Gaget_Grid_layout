@@ -1,4 +1,4 @@
-# Smat_Gaget_Grid_layout
+# Grid layout design
 Flutter Grid Layout Design for smart gadget
 
 Screenshots of my design
